@@ -1,7 +1,7 @@
 # helpfulChallenge
 Helpful Human Applicant Interview Challenge
 
-#Time Tracking
-Sunday 9/1/2019- 45 minutes
-Monday 9/2/2019
-Tuesday 9/3/2019
+# Time Tracking
+- Sunday 9/1/2019- 45 minutes
+- Monday 9/2/2019
+- Tuesday 9/3/2019
