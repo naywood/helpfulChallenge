@@ -1,0 +1,12 @@
+div#header {
+  background-color: #363c3c;
+  width: 100%;
+  height: 100px;
+}
+
+img {
+  padding-left: 30px;
+  padding-top: 25px;
+  padding-bottom: 30px;
+}
+

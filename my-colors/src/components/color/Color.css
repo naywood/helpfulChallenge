@@ -1,0 +1,25 @@
+div#palette {
+  display: block;
+  height: 218px;
+  width: 218px;
+  border: 1px solid #FDFDFD;
+  border-radius: 10px 10px 0 0;
+}
+
+div#label {
+  border: 1px solid #FDFDFD;
+  border-radius: 0 10px 10px 0;
+  margin-bottom: 40px;
+  padding-left: 25px;
+}
+
+div#color {
+  width: 220px;
+  box-shadow: 0 0 5px #bfc6c6;
+  border-radius: 10px 10px 10px 10px;
+
+}
+
+
+
+

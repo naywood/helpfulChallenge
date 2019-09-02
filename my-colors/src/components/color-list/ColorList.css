@@ -1,0 +1,11 @@
+div#wrap {
+  columns: 4 auto;
+  /* column-width: 220px; */
+  break-inside: avoid-column;
+  margin-top: 80px;
+}
+
+div#pages {
+  margin-bottom: 10px; 
+  margin-left: 50%;
+}

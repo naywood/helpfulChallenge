@@ -1,0 +1,32 @@
+div#detailPalette {
+  display: block;
+  height: 470px;
+  width: 900px;
+  border: 1px solid black;
+  border-radius: 10px 10px 0px 0px;
+  margin-left: 40px;
+}
+
+div#detailLabel {
+  border: 1px solid lightgray;
+  border-radius: 0 0 10px 10px;
+  width: 900px;
+  margin-left: 40px;
+  margin-bottom: 20px;
+  box-shadow: 0 0 5px #bfc6c6;
+
+}
+
+div#detailWrap {
+  margin-top: 80px;
+  margin-left: 300px;
+  
+}
+
+div#filterWrap {
+  columns: 5 auto;
+  break-inside: avoid-column;
+  margin-top: 30px;
+  width: 900px;
+  
+}

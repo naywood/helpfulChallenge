@@ -1,0 +1,26 @@
+div#filteredPalette {
+  display: block;
+  height: 75px;
+  border-radius: 10px 10px 0 0;
+  box-shadow: 0 0 5px #bfc6c6;
+
+}
+
+div#filteredLabel {
+  height: 50px;
+  border:  1px solid #bfc6c6;
+  border-radius: 0 0 10px 10px;
+  box-shadow: 0 0 5px #bfc6c6;
+
+}
+
+p {
+  padding-left: 5px;
+}
+
+div#filteredColor {
+  width: 125px;
+  margin-bottom: 10px;
+  break-inside: avoid-column;
+  
+}
