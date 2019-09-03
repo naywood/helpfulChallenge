@@ -96,58 +96,6 @@ const masterColorList = [
      hex: '#63B8FF',
    },
    {
-     category: 'red',
-     hex: '#F08080',
-   },
-   {
-     category: 'red',
-     hex: '#CD5C5C',
-   },
-   {
-     category: 'red',
-     hex: '#FF6A6A',
-   },
-   {
-     category: 'red',
-     hex: '#EE6363',
-   },
-   {
-     category: 'red',
-     hex: '#8B3A3A',
-   },
-   {
-     category: 'red',
-     hex: '#CD5555',
-   },
-   {
-     category: 'red',
-     hex: '#A52A2A',
-   },
-   {
-     category: 'red',
-     hex: '#FF4040',
-   },
-   {
-     category: 'red',
-     hex: '#EE3B3B',
-   },
-   {
-     category: 'red',
-     hex: '#CD3333',
-   },
-   {
-     category: 'red',
-     hex: '#8B2323',
-   },
-   {
-     category: 'red',
-     hex: '#CD2626',
-   },
-   {
-     category: 'red',
-     hex: '#CD0000',
-   },
-   {
      category: 'purple',
      hex: '#800080',
    },
@@ -342,7 +290,59 @@ const masterColorList = [
    {
      category: 'yellow',
      hex: '#ffd700',
-   }
+   },
+   {
+    category: 'red',
+    hex: '#F08080',
+  },
+  {
+    category: 'red',
+    hex: '#CD5C5C',
+  },
+  {
+    category: 'red',
+    hex: '#FF6A6A',
+  },
+  {
+    category: 'red',
+    hex: '#EE6363',
+  },
+  {
+    category: 'red',
+    hex: '#8B3A3A',
+  },
+  {
+    category: 'red',
+    hex: '#CD5555',
+  },
+  {
+    category: 'red',
+    hex: '#A52A2A',
+  },
+  {
+    category: 'red',
+    hex: '#FF4040',
+  },
+  {
+    category: 'red',
+    hex: '#EE3B3B',
+  },
+  {
+    category: 'red',
+    hex: '#CD3333',
+  },
+  {
+    category: 'red',
+    hex: '#8B2323',
+  },
+  {
+    category: 'red',
+    hex: '#CD2626',
+  },
+  {
+    category: 'red',
+    hex: '#CD0000',
+  },
 ];
 
 export default masterColorList;
